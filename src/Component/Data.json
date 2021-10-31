@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyễn Dũng",
+        "phone": "0986005291",
+        "role": 1
+    },
+    {
+        "id": 2,
+        "name": "Nguyễn Thị Tuyết Trang",
+        "phone": "0912189592",
+        "role": 2
+    },
+    {
+        "id": 3,
+        "name": "Nguyễn Song Hoàng",
+        "phone": "0838711380",
+        "role": 3
+    },
+    {
+        "id": 4,
+        "name": "Nguyễn Hoàng Giang",
+        "phone": "3855207",
+        "role": 3
+    }
+]
